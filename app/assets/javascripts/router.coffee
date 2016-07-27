@@ -1,2 +1,2 @@
-Rails5Sprockets4.Router.map ()->
+App.Router.map ()->
   # @resource('posts')

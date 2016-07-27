@@ -5,6 +5,6 @@
 #= require ember-data
 #= require active-model-adapter
 #= require_self
-#= require ./rails5-sprockets4
+#= require ./app
 
-window.Rails5Sprockets4 = Ember.Application.create()
+window.App = Ember.Application.create()
